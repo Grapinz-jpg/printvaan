@@ -1,5 +1,5 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Profile from './pages/profile';
+import Profile from './pages/Profile';
 import { CartProvider } from './context/CartContext';
 import { AuthProvider } from './context/AuthContext';
 import Navbar from './components/Navbar';
